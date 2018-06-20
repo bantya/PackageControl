@@ -1,0 +1,104 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [
+        {
+            "name": "DocBlockr",
+            "details": "https://github.com/bantya/DocBlockr",
+            "author": "bantya",
+            "releases": [
+                {
+                "sublime_text": ">=3000",
+                "branch": "master"
+                }
+            ]
+        },
+        {
+            "name": "RandomColorScheme",
+            "details": "https://github.com/bantya/RandomColorScheme",
+            "author": "bantya",
+            "releases": [
+                {
+                "sublime_text": ">=3000",
+                "branch": "master"
+                }
+            ]
+        },
+        {
+            "name": "InsertDateTime",
+            "details": "https://github.com/bantya/InsertDateTime",
+            "author": "bantya",
+            "releases": [
+                {
+                "sublime_text": ">=3000",
+                "branch": "master"
+                }
+            ]
+        },
+        {
+            "name": "SearchWeb",
+            "details": "https://github.com/bantya/SearchWeb",
+            "author": "bantya",
+            "releases": [
+                {
+                "sublime_text": ">=3000",
+                "branch": "master"
+                }
+            ]
+        },
+        {
+            "name": "Sheller",
+            "details": "https://github.com/bantya/Sheller",
+            "author": "bantya",
+            "releases": [
+                {
+                "sublime_text": ">=3000",
+                "branch": "master"
+                }
+            ]
+        },
+        {
+            "name": "FontSelector",
+            "details": "https://github.com/bantya/FontSelector",
+            "author": "bantya",
+            "releases": [
+                {
+                "sublime_text": ">=3000",
+                "branch": "master"
+                }
+            ]
+        },
+        {
+            "name": "SublimePHPCompanion",
+            "details": "https://github.com/bantya/SublimePHPCompanion",
+            "author": "bantya",
+            "releases": [
+                {
+                "sublime_text": ">=3000",
+                "branch": "master"
+                }
+            ]
+        },
+        {
+            "name": "ListOpenFiles",
+            "details": "https://github.com/bantya/ListOpenFiles",
+            "author": "bantya",
+            "releases": [
+                {
+                "sublime_text": ">=3000",
+                "branch": "master"
+                }
+            ]
+        },
+        {
+            "name": "CopyOnSelect",
+            "details": "https://github.com/bantya/CopyOnSelect",
+            "author": "bantya",
+            "releases": [
+                {
+                "sublime_text": ">=3000",
+                "branch": "master"
+                }
+            ]
+        }
+    ]
+}
