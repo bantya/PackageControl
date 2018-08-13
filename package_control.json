@@ -2,6 +2,17 @@
     "schema_version": "3.0.0",
     "packages": [
         {
+            "name": "Theme-Nilu",
+            "details": "https://github.com/bantya/Theme-Nilu",
+            "author": "bantya",
+            "releases": [
+                {
+                "sublime_text": ">=3000",
+                "branch": "master"
+                }
+            ]
+        },
+        {
             "name": "DocBlockr",
             "details": "https://github.com/bantya/DocBlockr",
             "author": "bantya",
