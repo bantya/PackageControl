@@ -110,6 +110,28 @@
                 "branch": "master"
                 }
             ]
+        },
+        {
+            "name": "Cyanide Theme",
+            "details": "https://github.com/akshaythakare7/cyanide-theme",
+            "author": "akshaythakare7",
+            "releases": [
+                {
+                "sublime_text": ">=3000",
+                "branch": "master"
+                }
+            ]
+        },
+        {
+            "name": "Alpenglow Theme",
+            "details": "https://github.com/akshaythakare7/alpenglow-theme",
+            "author": "akshaythakare7",
+            "releases": [
+                {
+                "sublime_text": ">=3000",
+                "branch": "master"
+                }
+            ]
         }
     ]
 }
