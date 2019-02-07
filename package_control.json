@@ -13,6 +13,17 @@
             ]
         },
         {
+            "name": "Meetio",
+            "details": "https://github.com/bantya/Meetio",
+            "author": "bantya",
+            "releases": [
+                {
+                "sublime_text": ">=3000",
+                "branch": "master"
+                }
+            ]
+        },
+        {
             "name": "DocBlockr",
             "details": "https://github.com/bantya/DocBlockr",
             "author": "bantya",
