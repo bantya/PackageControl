@@ -80,17 +80,6 @@
             ]
         },
         {
-            "name": "SublimePHPCompanion",
-            "details": "https://github.com/bantya/SublimePHPCompanion",
-            "author": "bantya",
-            "releases": [
-                {
-                "sublime_text": ">=3000",
-                "branch": "master"
-                }
-            ]
-        },
-        {
             "name": "OpenFilesLister",
             "details": "https://github.com/bantya/OpenFilesLister",
             "author": "bantya",
